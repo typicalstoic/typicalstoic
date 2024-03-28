@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Asus\source\repos\Calculator1\Calculator1\MyForm.cpp(8,15): warning C4551: в вызове функции отсутствует список аргументов
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator1.vcxproj -> C:\Users\Asus\source\repos\Calculator1\x64\Debug\Calculator1.exe
